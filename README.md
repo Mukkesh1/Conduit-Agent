@@ -13,7 +13,7 @@ Conduit Agent is an autonomous, tool-calling FinTech assistant designed to orche
 ## Project Structure
 
 ```text
-datazoic_agent/
+conduit_agent/
 ├── .env                      # Environment variables (PayPal keys, LangSmith config)
 ├── app/                      # Main Application Directory
 │   ├── api/                  # FastAPI layer
@@ -37,8 +37,8 @@ datazoic_agent/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/datazoic_agent.git
-   cd datazoic_agent
+   git https://github.com/Mukkesh1/Conduit-Agent.git
+   cd conduit_agent
    ```
 
 2. **Set up the virtual environment**
