@@ -1,6 +1,6 @@
-# Datazoic Agent: Autonomous FinTech Orchestrator
+# Conduit Agent: Autonomous FinTech Orchestrator
 
-Datazoic Agent is an autonomous, tool-calling FinTech assistant designed to orchestrate complex, multi-step workflows. It leverages a robust LangGraph state machine, ChromaDB for hybrid semantic tool retrieval, and dynamic schema parsing to execute deep financial transactions (e.g., PayPal Sandbox integration) purely from natural language.
+Conduit Agent is an autonomous, tool-calling FinTech assistant designed to orchestrate complex, multi-step workflows. It leverages a robust LangGraph state machine, ChromaDB for hybrid semantic tool retrieval, and dynamic schema parsing to execute deep financial transactions (e.g., PayPal Sandbox integration) purely from natural language.
 
 ## Key Features
 
